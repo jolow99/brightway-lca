@@ -14,8 +14,10 @@
 
 6. You have now setup everything we need to begin our LCA! 
 
+Note: Ignore the setup_db.ipynb file. You can do this programmatically as well, but may face more issues.
+
 # Usage Instructions 
 1. Get a Jupyter notebook up and running by using the command `jupyter lab`. (Remember to activate your virtual environment!)
 2. Run things in the main notebook. You can use the activity browser to more easily find relevant data. 
 
-# brightway-lca
+
